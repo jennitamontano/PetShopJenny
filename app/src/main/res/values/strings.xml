@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">PetShopJenny</string>
+    <string name="nombre_mascota">Mascota</string>
+    <string name="num_likes">#Likes</string>
+</resources>
